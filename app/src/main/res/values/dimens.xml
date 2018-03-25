@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headerImageMargin">10dp</dimen>
+    <dimen name="startMargin">6dp</dimen>
+    <dimen name="txtSize">17sp</dimen>
+    <dimen name="radioBtnMargin">5dp</dimen>
+    <dimen name="termsMargin">13dp</dimen>
+</resources>
